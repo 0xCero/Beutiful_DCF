@@ -1,7 +1,7 @@
-import re
-import urllib.request
 # The goal of this program is to pull stock ticker info and store in Excel
 
+import re
+import urllib.request
 from bs4 import BeautifulSoup
 
 # Get URL and create da soup
